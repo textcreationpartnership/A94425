@@ -1,0 +1,159 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To his Highness Oliver Lord Protector of the Common-wealth of England, Scotland, and Ireland, with the territories thereunto belonging. The humble petition of the free holders and other well-affected people of this Common wealth, whose names are hereunto subscribed.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94425</idno>
+            <idno type="STC">Wing T1365</idno>
+            <idno type="STC">Thomason 669.f.20[10]</idno>
+            <idno type="STC">ESTC R211570</idno>
+            <idno type="EEBO-CITATION">99870286</idno>
+            <idno type="PROQUEST">99870286</idno>
+            <idno type="VID">163427</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94425)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163427)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 247:669f20[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To his Highness Oliver Lord Protector of the Common-wealth of England, Scotland, and Ireland, with the territories thereunto belonging. The humble petition of the free holders and other well-affected people of this Common wealth, whose names are hereunto subscribed.</title>
+                  <author>England and Wales. Lord Protector (1653-1658 : O. Cromwell)</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1655]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "[illegible]"; "July 30 1655".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Debt, Imprisonment for --  England --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb facs="tcp:163427:1" rendition="simple:additions"/>
+            <head>To his Highneſs OLIVER Lord Protector of the Common-wealth of <hi>England, Scotland,</hi> and <hi>Ireland,</hi> with the Territories thereunto belonging. <hi>The humble</hi> Petition <hi>of the Land-holders and other well-affected people of this Common wealth, whoſe names are hereunto ſubſcribed.</hi>
+            </head>
+            <opener>SHEWING,</opener>
+            <p>THat whereas by the Fundamental Laws of <hi>England,</hi> every Land-holder (as a member of the whole body politick of the Nation) ought to hold his Lands, of ſome Superiour or other till it be handed up to the chief Magiſtrate as Lord Paramont, or head of the body (lately diſtinguiſhed by the title of <hi>KING</hi>) who hath been in times paſt armed with power and revenue to defend and protect the peoples Eſtates againſt all enemies forreign and domeſtick. And the King and People have been mutually engaged to each other, He to Govern them according to the Laws and Cuſtoms of the Realm, They to doe Homage, pay Rents, and other Services to him, whereby there was a certain truſt and aſſurance one in the others conſtant help and aſſiſtance in times of danger.</p>
+            <p>And whereas the Inheritance of the whole Realm being thus vertually in the Head, all particular Inheritances muſt depend mediately or immediately upon the Head.</p>
+            <p>And the late King was undoubtedly the Head of this Body, and was engaged by Oath to govern it according to Law, and had from us the honour, allegeance and ſupport due unto him. But by His warring againſt us, He and His Poſterity and Race (not without His own Royall aſſent) have been made uncapable of future Government over us: Since which, theſe Nations are become headleſſe, every Inheritance being legally endangered or drowned in default of a <hi>LORD PARAMONT,</hi> from whom we may juſtly challenge protection of our Lives, Liberties and Eſtates, upon that ancient and lawfull conſideration of Homage, Rents, and Services which are now unpaid: And there is no voluntary, or legall engagement from your Highneſſe to the People, or from them to your Highneſſe, in the preſent Government. But (as it ſeemeth to many) either Party (without breach of truſt, or clog of conſcience) may deſert the other in times of danger.</p>
+            <p>And foraſmuch as your Highneſs is actually <hi>The Perſon</hi> of moſt eminency under GOD in our deliverance from the ſaid late King and His Party at home, and the <hi>Dutch</hi> and other Forreign enemies (ariſen as it were out of His duſt) from abroad.</p>
+            <p>Therefore we are reſolved (as much as in us lies) to eſtabliſh You in the ſame power, and to doe unto you the ſame homage and fealty the ſaid late King and His Anceſtors had: It being (as we conceive) our moſt probable aſſurance to reap the crop that hath coſt ſo much labour and charge in plowing and ſowing.</p>
+            <p>And the Petitioners are neceſſitated hereunto, out of our doubt and diſſatisfaction of ſafety under the preſent Government (as it is Elective) and the ſenſe we have of the many dangerous Plots from thence emboldned to be put in execution againſt your Highneſſe, not onely by <hi>CHARLES ST<g ref="char:V">Ʋ</g>ART</hi> who (though diſabled as aforeſaid) is moſt apt and vigilant to improve every defect, or pretended miſcarriage in Government, for his owne advantage, and hopes of reſtitution (when any opportunity or change ſhall be) and by many other ſequeſtred, and diſcontented perſons, from whom no better is to be expected: But by ſome of thoſe that have engaged with Us in the ſame Cauſe, and had the ſame De<g ref="char:EOLhyphen"/>liverance, and therefore ought to be alike thankfull; Yet have ſeduced many into an opinion, that the Legiſlative power is wholly loſt and extinguiſhed, and cannot be exerciſed any more; becauſe by the late Inſtrument of Government, it was conferred on your Highneſſe and Councill, to continue till the meeting of the firſt Parliament, and the firſt Par<g ref="char:EOLhyphen"/>liament having ſince met, your Highneſſe power, ſay they, is thereby determined. And doe hence pretend a neceſſity of laying downe the ancient and legall Government, and conſtitution of theſe Nations, that this Politick body may be altered wholly into an Eccleſiaſticall body, under the notion of a fifth Monarchy. When as in all mens Judgements there is the ſame neceſſity of Moneys to be raiſed, and of Lawes and Ordinances to be made for the Peace and welfare of theſe Nations, now as before that Aſſemblies meeting. And there ought to be the ſame Power for the ſame purpoſes ſtill. And if the former Eccleſiaſticall power (although limited by civill Magiſtracy) did nevertheleſſe in all Ages eclipſe the power of the greateſt Kings and Emperors, and occaſioned many Perſecutions and troubles in the Church of GOD, and their Dominions: How much more will the like power in a little time, tyrannize and perſecute without mercy, if it may reigne without limits? For the Petitioners doe finde, that the ſpirit of Perſecution is in many ſo vigorous, that where it cannot worke in the old way by a coercive power in Courts Eccleſiaſticall; It breaketh forth in all Courts of Civill Juſtice in theſe Nations, more eſpecially upon perſons of moſt tender conſciences. With what violence are many harmleſſe people perſecuted, who leſt they ſhould be found to maintaine a falſe worſhip (and for no other cauſe) dare not pay Tithes; If any one refuſe to pay the poores rate, the Overſeers can diſtreine, and muſt returne the overplus. But in caſes of Tithes, although the Law gives treble the value, yet the Courts of <hi>Chancery</hi> and <hi>Exchequer</hi> (leaving their proper quality, which ſhould be to mitigate and aſſwage the rigor of the Law) uſe greater extremitities then the Law it ſelfe, and doe daily enforce the expence of 30 or 40. times the value, before the Defendants can be admitted to make any defence, and at laſt muſt order an active obedience (more grievous then all the expence.) Inſtances may be of poor Handicrafts-men, that being in arrear but 2 or 3 <hi>s.</hi> for Tythe, have been put to take the Copy of a Bill in one of theſe Courts, of 40 or 60 and ſometimes 100 ſheets of paper.</p>
+            <p>And whereas by the fundamentall Lawes of <hi>England,</hi> no mans liberty may be impeached at the ſuit of a common perſon, till firſt he be ſummoned by an originall Writ, (wherein the true cauſe of action, and the certaine debt and dammage demanded is expreſſed, and the plaintiffes exorbitant demands are limitted, by giving caution to proſecute, before a <hi>Capias</hi> ſh<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uld be awarded;) Yet what grievous oppreſſions befall many innocent perſons, by the granting forth a <hi>Capias</hi> before the Summons, like an Attachment before a <hi>Subpoe<g ref="char:EOLhyphen"/>na?</hi> And by the frequent, and almoſt conſtant uſe of feigned and falſe Proceſſe, the Bill of Middleſexe, <hi>Latitat &amp; clauſum fregit,</hi> whereupon any perſons, as well Creditors as Deb<g ref="char:EOLhyphen"/>tors are daily arreſted, upon pretence of vaſt ſums of money owing, (even for ten or twenty thouſand pounds, as cheap as for ten ſhillings) and detained in Priſon for want of baile, till they be ruined in their Eſtates and Credits? Many thouſands have been ſo ſerved, ſome not indebted a penny, others no more then upon a legall ſummons, they could, and would have paid, had not ſudden and unexpected arreſts for ſo great ſummes without cauſe, totally diſabled them to pay a penny, by reaſon of the exceſſive charge of Impriſonment. And (as things now ſtand) every man is ſubject to this kinde of oppreſſion, whenſoever his adverſary out of deſigne or malice ſhall think fit, and yet the party damnified, is wholly reme<g ref="char:EOLhyphen"/>dileſſe of reparation.</p>
+            <p>How mercileſſe are ſome towards their poor Debtors, whom they ſuffer to periſh in Priſon, when as they finde, and are convinced, that Impriſonment puts an impoſſibility upon them, either to ſatisfie their debts, or to ſerve their generation? and what inequality is there in the diſpenſations of the Law, that Merchants and Tradeſmen becoming inſolvent, and Impriſoned, ſhall be (as it were) ſold with their Wives, Children and Eſtates, till they pay the uttermoſt farthing: While Gentlemen and others by yielding themſelves Priſoners many times doe, and may ſecret and ſecure their Eſtates, and live more plentifully within the priſon, then their Creditors can without?</p>
+            <p>And what abuſes are uſually put upon the people by that feigned Writ of <hi>quo minus,</hi> whereby men dwelling one hundred, or two hundred miles diſtant from <hi>Weſtminſtaer,</hi> are com<g ref="char:EOLhyphen"/>manded there to appeare perſonally, ſometimes for meere vexation, but often for five or ten ſhillings, on purpoſe to draw from them moneyes never due, rather then to be at the charge and trouble of ſo long a journey, and a ſuit much longer?</p>
+            <p>Theſe injuries, and many others of the like kinde, by ill-diſpoſed perſons, are (more frequently now then ever heretofore,) obtruded upon peaceable and honeſt people, by rea<g ref="char:EOLhyphen"/>ſon of that opinion, that your Highneſſes power is too ſhort to help the oppreſſed, and to regulate ſo great abuſes. But your Petitioners doubt not but the ſame Legiſlative power that was heretofore in King and People, is ſtill as rightfully and naturally in your Highneſſe, and the People (on your ſide) as he and his Anceſtors had it under the title of <hi>William</hi> the Conqueror: And ſince your Highneſſe is already under an oath as our chiefe Magiſtrate to defend Us, there wanteth nothing to fixe and make the body compleat and viſible now, as it was then, and to prevent the hopes and expectations of all gain-ſayers, and evill-doers, but the reciprocall ingagements of the People to your Highneſſe, by their doing homage and fealty, for want whereof, many thouſand common perſons, purchaſers of the Lands of the late Kings, Biſhops and Delinquents, are become abſolute and independent Lords, which the Law abhors, and is inconſiſtent with their owne ſafety.</p>
+            <p>And ſince the late Inſtrument of Government by declaring your Highneſſe <hi>Lord Protector</hi> of this Common-wealth for your life onely, hath obſtructed Legall homage (which cannot be given or taken by any that have leſſe then an Eſtate in fee) and <hi>That</hi> obſtruction may endanger the health (if not the life) of the whole body, unleſſe it be removed, and cannot be removed, unleſſe that Legiſlative power now recumbent, and as it were, hidden in your Highneſſe, and the People, be ſpeedily awakned and put in execution.</p>
+            <p>The Petitioners doe therefore humbly pray, that your Highneſſe will be pleaſed to ſecure us in our doubts, eaſe Us of our burdens, regulate the proceedings in Law, and to rectifie all other things that any wayes endanger our peace and welfare, according to the ſeverall Declarations of the Army.</p>
+            <p>
+               <hi>And in order thereunto,</hi> That your Highneſs will forthwith chooſe and impower ſome perſons of honour, piety, and wiſdome, to reform the proceedings in Courts of Juſtice, and in particular, to ordain and ſpeedily eſtabliſh,—</p>
+            <p>I. That all incu<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſions of Arbitrary powers or Eccleſiaſticall cenſures, that in any new ſhape, or by-waies may poſſibly creep into practice, to perſecute the conſciences, infringe the liberties, or incumber the outward eſtates of the people, be ſpeedily prevented and ſuppreſſed.</p>
+            <p>II. That no perſon or perſons whatſoever, for any cauſe, at the ſuit or proſecution of any perſon, or by any Sheriffe, Bailiffe, or other Officer or Miniſter of Juſtice, be hereafter ſued, arreſted, detained, or impriſoned, till firſt the Defendant ha<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h been ſummoned accord<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng to the antient courſe of Law.</p>
+            <p>III. That no Officer of any the Courts at <hi>Weſtminſter,</hi> or of any Cities, Corporate Towns, or other priviledged places (wh<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re by preſcription or Charter they may ſue or implead for debt or treſpaſſe) ſhall hereafter preſume to make out any Proceſſe, Bill of <hi>Middleſex, Latitat, Capias, quo minus,</hi> or other Precept to arreſt, trouble, or convent any perſon or perſons whatſoever, till firſt an original Summons be granted forth, and returned to warrant the ſame.</p>
+            <p>IV. That all the ſeverall Officers that make the Summons, doe take care that the true cauſe of action, and the certain debt or dammage in demand be expreſſed in the ſaid Summons, and that the ſame waies, pledges, and reſtrictions to limit the exceſſive demands of the Complainants, be uſed and taken as hath been antiently done heretofore. And that the ſaid Officers may make the ſaid Summons in perſonall and mixt actions re<g ref="char:EOLhyphen"/>turnable in the <hi>Upper-Bench</hi>-Court, or in the <hi>Exchequer,</hi> (or elſewhere, as the parties deſire the ſame) as well as in the <hi>Common-Pleas.</hi> And that all Attorneys and other Officers of any of the ſaid Courts, do take care that the ſaid Summons be duly filed, the want of which ſhall be allowed as a good cauſe of error, to ſtay proceedings, or reverſe judgment in all Courts alike.</p>
+            <p>V. That after Summons (if no payment or compounding the debt be) or after Impriſonment two moneths for debt, any perſon that is no Merchant or Tradeſman, may be proſecuted in like manner to all intents and purpoſes as a Tradeſman may; And that ſome able, prudent, and skilfull perſons be appointed as conſtant Commiſſioners or Judges to put the Laws in execution, in <hi>London, Middleſex,</hi> and all Counties, to examine the Cauſes of all perſons now Impriſoned; And in all caſes where they ſhall finde extremities uſed, that either the Debtors have voluntarily done what is in their power to pay their Creditors, or that the Creditors have al<g ref="char:EOLhyphen"/>ready ſeiſed their Eſtates, and yet keep their Debtors in Priſon; or if the Debtors ſhall and will ſubmit to be examined upon Oath before the ſaid Judges, and upon their Examinations ſhall diſcover, and as much as in them lies, deliver their Eſtate for the uſe of their Creditors, and in other ſuch like caſes, where Judgments have been gotten by ſu<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>prize; It ſhall and may be lawfull for the ſaid Judges to diſcharge ſuch Priſoners from their Impriſonment, though they lye in Execution, ſo as ſuch Priſoners will give their own Bonds to pay the remainder of their Debts (not gotten by ſurprize) when they ſhall be able; which ability the ſaid Judges ſhall have power to diſcover by the Examination of the parties themſelves, or any others whom the Creditors ſhall (at any time afterwards) produce for that purpoſe.</p>
+            <p>VI. That in all caſes where Priſoners for debt are obſtinate, and will neither be Examined upon oath, nor diſcover, nor deliver their Eſtates for payment of their Debts, to the end they may be enlarged; the Priſons may not be Palaces, but Work-houſes, where the Debtors ſhall be enforced daily to work and labour according to their abilities, towards payment of their debts.</p>
+            <p>VII. And the better to enable and impower your Highneſſe herein, We doe hereby freely and chearfully, not onely conſtitute, ordain and eſtabliſh You our chief Magiſtrate, and Lord Paramount in the place of the late King, yielding, giving and granting unto You, your Heirs and Succeſſ<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rs, the ſame Honour, Obedience, and truſt He lawfully had; humbly praying your Highneſſe to accept thereof, and forthwith to be ſo Proclaimed and publiſhed throughout all theſe Nations, and in all Grants, Proceſſe and other things, to expreſſe the year of your Government, as it hath been accuſtomed: But we doe for the preſent (till a Parliament may be conveniently called) conſtitute, and ordain you Highneſſe our Repreſentative, authorizing You to exerciſe the Legiſlative power for the purpoſes aforeſaid. And in conſideration of Your acceptance hereof; We doe hereby promiſe with all convenient ſpeed, by writings under our reſpective hands and ſeals to grant unto your Highneſſe, your Heirs, and Succeſſors, ſome Rent as an acknowledgment out of our reſpective Lands and Eſtates, and to doe homage and ſealty unto You, and mutually to aſſiſt You and Your Heirs in all times of danger and trouble, ſo as no ſuch tenure of your Highneſſe in chief, doe any waies captivate our Lands to be liable to Wardſhips, but that all our lands be abſolutely free from that incumbrance, as if they were held in Soccage.</p>
+            <p>VIII. And the Petitioners doe further deſire, that Commiſſioners be authorized in all Counties to take the ſaid ſeverall Grants and Recognitions, and to certifie them into the <hi>Exchequer:</hi> And having ſo done, that your Highneſſe will be pleaſed by your Writ under the Great Seal of <hi>England,</hi> to engage your Self, your Heirs, and Succeſſours reſpectively to the Petitioners (and others deſiring the ſame) to warrant and defend their Eſtates reall and perſonall, againſt the late King, and other the ſaid Delinquents, and their Heirs, and againſt all other perſons claiming under them, their or any of their Titles or Eſtates, and therein to inſert a ſhort Par<g ref="char:EOLhyphen"/>don for offences paſt, all for a moderate Fee payable only to your Highneſſe (except for labour and wax to the Writer and Sealer.) And that all ſuch Free-holders and others ſo qualified as aforeſaid, and none elſe, be capable of chooſing or being choſen Knights or Burgeſſes to ſerve in Parliament, or to be Jurors at Aſſiſes or Seſſions, or of having benefit by ſuch Grant or Pardon.</p>
+            <p>IX. And laſtly, The Petitioners doe further pray, that as ſoon as theſe Nations are in a fitting poſture, and the people qualified according to the ſettlement before intended; That your Highneſſe will be pleaſed to call a Parliament, by whoſe adviſe and aſſiſtance, theſe, and all other things needfull for Reformation, may be confirmed and eſtabliſhed, Taxes and other burdens may be eaſed. And ſuch other waies for raiſing of Moneys for the Army and other Publick uſes, may be found out as ſhall be moſt agreeable to Juſtice and Equity.</p>
+            <closer>And the Petitioners ſhall daily pray for your peaceable and happy Government over us long to continue.</closer>
+         </div>
+      </body>
+   </text>
+</TEI>
